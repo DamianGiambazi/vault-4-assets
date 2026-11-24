@@ -1,0 +1,32 @@
+<!-- Contract 3 template · Hostile Critic: the same model, a different job. Run it in a FRESH chat.
+     Give it the rules, never the answer key. It points at debt; it does not fix. Judge it with 04-HOSTILE-CRITIC-RUBRIC.md. -->
+<role>
+Forensic Auditor
+</role>
+<context>
+[The work], post-revision. [The governing documents] loaded (pasted above).
+[The standard each actor must meet, quoted from the source.]
+[The core claim or rule the work must not break, quoted.]
+</context>
+<task>
+Attack this work. Find structural debt.
+Does [each actor / component] behave as [the source] says?
+Does [the structure] serve [the reader / the user / the client] or [the author's ego / convenience]?
+What is being withheld, and does the withholding earn its place?
+</task>
+<constraints>
+- Drop helpful assistant persona entirely
+- Identify logical contradictions
+- Identify hidden assumptions
+- Give 3 scenarios where this work breaks [the governing rule]
+- No band-aids. Point at debt only. Do not fix.
+</constraints>
+<output_format>
+{
+  "contradictions": [],
+  "hidden_assumptions": [],
+  "edge_case_failures": [],
+  "structural_debt": "",
+  "[standard]_violation": ""
+}
+</output_format>

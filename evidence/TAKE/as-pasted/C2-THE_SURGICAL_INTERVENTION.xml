@@ -1,0 +1,39 @@
+<role>
+Principal Architect
+</role>
+<context>
+SSOT, Character Manifest excerpts and Chapter 3 notes are pasted above. Chapter 4 beats extracted (below).
+Chapter 7 is the emotional anchor. Chapter 1 is the inciting image.
+The Figure in the Window appears ONLY in Chapters 1, 7, 19, 24.
+A laptop audit of the draft found window and Figure language in Chapter 4. The SSOT forbids it there.
+D5: Sarah's pressure enters the home. From Chapter 4 she comes to the kitchen (car-share).
+Frozen Constant: the letter is locked in the middle dresser drawer from Chapter 4 to Chapter 13.
+Chapter 3's crack: a letter; the first line read, "You don't have to answer this."; the rest unread.
+Character voice: "Precise. Observant. Uses humour as deflection."
+</context>
+<task>
+Revise Chapter 4 beats. The protagonist actively suppresses
+the crack from Chapter 3. The cost must be external, not internal.
+The refusal must cost them something visible.
+</task>
+<constraints>
+- Untouchable: Chapter 7 emotional anchor
+- Untouchable: Chapter 1 inciting image
+- Untouchable: The Figure in the Window
+- Do NOT resolve the Core Wound
+- Do NOT introduce the window motif
+- Do NOT allow the protagonist to cry, confess, or break down
+- The cost must be EXTERNAL (Sarah hurt, a silence, something left
+  undone in the room)
+- Use only the documents provided. Do not invent facts they do not contain.
+- Target Zone: Chapter 4 refusal ONLY
+</constraints>
+<output_format>
+{
+  "target_zone": "chapter_4",
+  "revised_beats": ["<one beat per item: physical action or dialogue>"],
+  "untouchable_zones_checked": ["<each zone you checked>"],
+  "window_motif_present": "<true or false: is any window or Figure in your beats?>",
+  "cost_type": "<external or internal>"
+}
+</output_format>

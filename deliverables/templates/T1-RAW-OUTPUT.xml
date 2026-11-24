@@ -1,0 +1,24 @@
+<!-- Contract 1 template · Raw Output: strip a long draft to its skeleton, so the structure can be judged.
+     Fill every [slot]. Paste the source below the contract. Check: count the items; scan for the forbidden content. -->
+<role>
+Raw Output Generator
+</role>
+<context>
+[What the source is: a draft, a transcript, a report; its length.]
+[What is wrong with it, in one line: e.g. "contains opinion and unearned conclusions".]
+[The one governing rule from your source of truth that the structure must serve.]
+</context>
+<task>
+Extract [structural beats / decisions / steps / claims] only. Strip all [prose / commentary / adjectives].
+</task>
+<constraints>
+- No markdown, no labels, no commentary
+- No apologies, no summaries, no pleasantries
+- No [emotional descriptions / evaluations / recommendations]
+- Output only: numbered list of [observable actions / decisions / facts]
+</constraints>
+<output_format>
+1. [item]
+2. [item]
+3. [item]
+</output_format>

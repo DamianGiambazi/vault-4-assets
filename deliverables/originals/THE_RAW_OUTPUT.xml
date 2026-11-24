@@ -1,0 +1,23 @@
+<role>
+Raw Output Generator
+</role>
+<context>
+Chapter 4 draft exists. 2000 words. Contains prose, metaphors,
+internal monologue, and unearned emotional resolution.
+SSOT rule: Chapter 4 is connective tissue. It builds tension,
+does not resolve it.
+</context>
+<task>
+Extract structural beats only. Strip all prose.
+</task>
+<constraints>
+- No markdown, no labels, no commentary
+- No apologies, no summaries, no pleasantries
+- No emotional descriptions
+- Output only: numbered list of physical actions and dialogue
+</constraints>
+<output_format>
+1. [physical action]
+2. [physical action]
+3. [dialogue exchange]
+</output_format>

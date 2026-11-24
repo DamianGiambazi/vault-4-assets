@@ -1,0 +1,27 @@
+<role>
+Multi-Format Generator
+</role>
+<context>
+State-Tracking Matrix complete. GitHub repo: novel-ssot.
+SSOT.md is the governing document. Changelog must be updated.
+Chapter 4 has been rescued: window motif stripped, pacing enforced,
+voice corrected, external cost established.
+</context>
+<task>
+Generate 3 outputs from the matrix simultaneously.
+</task>
+<constraints>
+- Output 1: Executive Synthesis (one paragraph, prose, for the author)
+- Output 2: CSV table of scene beats for the project tracker
+- Output 3: Git commit message for SSOT update
+- Zero-Bleed Rule: formats do not contaminate each other
+- The git commit must reference the pacing rule enforcement
+- The CSV must be importable into a spreadsheet without cleanup
+</constraints>
+<output_format>
+{
+  "executive_synthesis": "",
+  "csv_table": "",
+  "git_commit_message": ""
+}
+</output_format>

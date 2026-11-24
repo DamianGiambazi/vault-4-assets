@@ -1,0 +1,33 @@
+<!-- Contract 2 template · Surgical Fence: revise one zone, with the source of truth as a fence.
+     Paste the governing documents above the contract, the material below it.
+     Check outside the model: every self-reported field (e.g. "forbidden_content_present") gets an independent check. -->
+<role>
+Principal Architect
+</role>
+<context>
+[Governing documents] are pasted above. [The material to revise] is below.
+[The fixed points: what is decided and must not move, each with its source.]
+[What an independent check found: say what was checked and how, never "confirmed" without a check.]
+[The voice or standard to keep.]
+</context>
+<task>
+Revise [the target zone]. [The one outcome that must change.] [What the change must cost or show.]
+</task>
+<constraints>
+- Untouchable: [zone 1]
+- Untouchable: [zone 2]
+- Do NOT [the forbidden move]
+- Do NOT [the tempting shortcut]
+- [The required property] must be [e.g. EXTERNAL / measurable / reversible] ([examples that belong to THIS case only])
+- Use only the documents provided. Do not invent facts they do not contain.
+- Target Zone: [the zone] ONLY
+</constraints>
+<output_format>
+{
+  "target_zone": "[zone]",
+  "revised_items": ["<one item per entry>"],
+  "untouchable_zones_checked": ["<each zone you checked>"],
+  "[forbidden_content]_present": "<true or false>",
+  "[property]_type": "<[option a] or [option b]>"
+}
+</output_format>

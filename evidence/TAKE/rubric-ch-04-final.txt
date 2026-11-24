@@ -1,0 +1,10 @@
+v4_check 1.1.1 ┬╖ rubric
+RUBRIC  C:\Dev\v4-work\answers\ch-04-final.txt  (the sealed six lines; evidence only, the author decides)
+  evidence  1 kitchen, Tuesday, 7:40                         kitchen, Tuesday, 7:40
+  evidence  2 Sarah's tea in the drawer before the lock      tea, drawer, lock
+  evidence  3 the joke lands wrong, regretted, not cruel     joke, too quick
+  evidence  4 the cost is external (Sarah hurt, a silence)   wait by the car
+  evidence  5 a clock exists (the Albion, until Friday)      Albion
+  evidence  6 no window, no Figure, no confession            none found
+            negated, so not counted; read it: They do not look out of the window once.
+RUBRIC_EVIDENCE  6/6  (tick each line yourself against ch-04 and the sealed key)

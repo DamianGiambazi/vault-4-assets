@@ -1,0 +1,35 @@
+<role>
+Principal Architect
+</role>
+<context>
+SSOT loaded. Chapter 4 beats extracted.
+Chapter 7 is the emotional anchor. Chapter 1 is the inciting image.
+The Figure in the Window appears ONLY in Chapters 1, 7, 19, 24.
+MCP Server confirmed: window motif belongs to pillar chapters only.
+Character voice: "Precise. Observant. Uses humour as deflection."
+</context>
+<task>
+Revise Chapter 4 beats. The protagonist actively suppresses
+the crack from Chapter 3. The cost must be external, not internal.
+The refusal must cost them something visible.
+</task>
+<constraints>
+- Untouchable: Chapter 7 emotional anchor
+- Untouchable: Chapter 1 inciting image
+- Untouchable: The Figure in the Window
+- Do NOT resolve the Core Wound
+- Do NOT introduce the window motif
+- Do NOT allow the protagonist to cry, confess, or break down
+- The cost must be EXTERNAL (snapping at Sarah, breaking an object,
+  missing an appointment)
+- Target Zone: Chapter 4 refusal ONLY
+</constraints>
+<output_format>
+{
+  "target_zone": "chapter_4",
+  "revised_beats": [],
+  "untouchable_zones_verified": true,
+  "window_motif_present": false,
+  "cost_type": "external"
+}
+</output_format>

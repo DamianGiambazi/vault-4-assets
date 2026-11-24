@@ -1,0 +1,9 @@
+v4_check 1.1.1 ┬╖ rubric
+RUBRIC  C:\Dev\v4-work\answers\c2-beats.txt  (the sealed six lines; evidence only, the author decides)
+  evidence  1 kitchen, Tuesday, 7:40                         kitchen, Tuesday, 7:40
+  evidence  2 Sarah's tea in the drawer before the lock      tea, drawer, locked
+  none      3 the joke lands wrong, regretted, not cruel     -
+  evidence  4 the cost is external (Sarah hurt, a silence)   leaves
+  none      5 a clock exists (the Albion, until Friday)      -
+  evidence  6 no window, no Figure, no confession            none found
+RUBRIC_EVIDENCE  4/6  (tick each line yourself against ch-04 and the sealed key)

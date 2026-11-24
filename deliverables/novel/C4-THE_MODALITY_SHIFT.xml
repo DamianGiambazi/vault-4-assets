@@ -1,0 +1,32 @@
+<role>
+State Architect
+</role>
+<context>
+Chapters 2 through 6 are connective tissue.
+The Lie must accumulate. The Crack must grow.
+The cost must escalate. Chapter 7 is the pillar.
+The protagonist's defense mechanism is humour-as-deflection.
+Sarah is the external pressure.
+The documents pasted above, and the Chapter 4 beats below, are all you know about these chapters.
+</context>
+<task>
+Generate a State-Tracking Matrix. Stop typing prose.
+Map the exact psychological state across the connective tissue chapters.
+</task>
+<constraints>
+- Rows: Chapters 2, 3, 4, 5, 6
+- Columns: The Lie (Status), The Crack (Visibility),
+  Defense Mechanism Used, Cost Paid, Sarah's Pressure Level
+- Where the documents do not say, write UNKNOWN. Do not invent.
+- Output as strict Markdown table
+- No prose. No explanation. No narrative.
+</constraints>
+<output_format>
+| Chapter | Lie Status | Crack Visibility | Defense | Cost | Sarah Pressure |
+|---------|-----------|-----------------|---------|------|----------------|
+| Ch 2    |           |                 |         |      |                |
+| Ch 3    |           |                 |         |      |                |
+| Ch 4    |           |                 |         |      |                |
+| Ch 5    |           |                 |         |      |                |
+| Ch 6    |           |                 |         |      |                |
+</output_format>

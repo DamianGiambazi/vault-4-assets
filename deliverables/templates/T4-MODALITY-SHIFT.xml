@@ -1,0 +1,32 @@
+<!-- Contract 4 template · Modality Shift: when description fails, change the medium. Prose becomes a table.
+     Check: the table's shape (rows x columns), the UNKNOWN cells, and one row against your sealed reference. -->
+<role>
+State Architect
+</role>
+<context>
+[The span: e.g. phases 2 to 6 of the project / clauses 2 to 6 / weeks 2 to 6.]
+[What must accumulate, grow or escalate across the span.]
+[The defence or default each actor falls back on.]
+[The external pressure.]
+The documents pasted above, and the material below, are all you know about this span.
+</context>
+<task>
+Generate a State-Tracking Matrix. Stop typing prose.
+Map the exact state across [the span].
+</task>
+<constraints>
+- Rows: [row 1], [row 2], [row 3], [row 4], [row 5]
+- Columns: [column 1], [column 2], [column 3], [column 4], [column 5]
+- Where the documents do not say, write UNKNOWN. Do not invent.
+- Output as strict Markdown table
+- No prose. No explanation. No narrative.
+</constraints>
+<output_format>
+| [Row label] | [Column 1] | [Column 2] | [Column 3] | [Column 4] | [Column 5] |
+|---|---|---|---|---|---|
+| [row 1] | | | | | |
+| [row 2] | | | | | |
+| [row 3] | | | | | |
+| [row 4] | | | | | |
+| [row 5] | | | | | |
+</output_format>

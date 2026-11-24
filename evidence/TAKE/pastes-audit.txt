@@ -1,0 +1,9 @@
+v4_check 1.1.1 ┬╖ pastes
+PASTES  6 bundles pasted into the writer's chats
+  2026-11-10T13:26:24Z  B       132 chars  B-ask-the-receiver.txt (131)
+  2026-11-10T13:46:42Z  C1     8761 chars  C1-THE_RAW_OUTPUT.xml (645), ch04-c-tier.md (8045)
+  2026-11-10T13:54:52Z  C2    13204 chars  SSOT.md (3480), manifest-excerpts.md (2995), ch-03.md (930), C2-THE_SURGICAL_INTERVENTION.xml (1748), c1.txt (3732)
+  2026-11-10T14:01:42Z  C3     9888 chars  SSOT.md (3480), manifest-excerpts.md (2995), C3-THE_HOSTILE_CRITIC.xml (1045), c2-beats.txt (2120)
+  2026-11-10T14:17:51Z  c4    10598 chars  SSOT.md (3480), manifest-excerpts.md (2995), ch-03.md (930), C4-THE_MODALITY_SHIFT.xml (1402), ch-04-final.txt (1488) [author]
+  2026-11-10T14:21:39Z  c5     6642 chars  fixes.txt (1558) [author], C5-THE_DERIVATIVE_MATRIX.xml (2579), c4.md (2448), ch-04-final.txt (1488) [author]
+KEY_NEVER_PASTED  bundles=6 chars=49225  (the author's own lines, marked [author], and the writer's echoes of them are exempt)

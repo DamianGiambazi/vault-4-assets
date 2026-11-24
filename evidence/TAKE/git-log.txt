@@ -1,0 +1,9 @@
+e507f21  2026-11-10T15:25:49+01:00  commit
+f62b964  2026-11-10T14:42:05+01:00  seal: vault 4 key and predictions, before the contracts
+3c6359b  2026-11-09T16:47:49+01:00  docs: adopt the Figure's light rule (closes #2)
+3549454  2026-11-05T11:05:03+01:00  seal: vault 3 performance prediction, prompts and seal check, before the run
+dc9e692  2026-11-01T17:50:50+01:00  docs: session 1 handover and inheritance check
+74fd9a4  2026-11-01T17:43:58+01:00  Update Chapter 2 description in SSOT.md
+131ee69  2026-11-01T17:33:28+01:00  feat: lock the spine (SSOT v1.0 + constitution + run receipts)
+13913f5  2026-11-01T17:02:34+01:00  seal: corpus, questions and prediction, before the recorded run
+main

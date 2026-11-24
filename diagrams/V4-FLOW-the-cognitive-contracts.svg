@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif">
+<title>Vault 4 · The Cognitive Contracts: data flow: a C-tier draft, five contracts, a laptop that checks, an author who decides</title>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5B6472"/></marker><marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#B42A2A"/></marker><marker id="o" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#B4532A"/></marker></defs>
+<rect width="1600" height="900" fill="#FAF8F4"/>
+<text x="60" y="62" font-size="32" font-weight="700" fill="#1F2430">Vault 4 · The Cognitive Contracts: data flow</text>
+<text x="60" y="94" font-size="19" fill="#5B6472">a C-tier draft, five contracts, a laptop that checks, an author who decides</text>
+<text x="1540" y="58" text-anchor="end" font-size="19" font-style="italic" fill="#1F2430">Don&#x27;t argue with the AI.</text>
+<text x="1540" y="84" text-anchor="end" font-size="19" font-style="italic" fill="#1F2430">Change the contract, then check it.</text>
+<rect x="40" y="120" width="1520" height="190" rx="16" fill="#EEF2F7" stroke="#8A94A6" stroke-width="1.5" stroke-dasharray="9 7"/>
+<text x="58" y="144" text-anchor="start" font-size="14" font-weight="600" letter-spacing="1" fill="#5B6472">BEFORE ANY CONTRACT</text>
+<rect x="70" y="165" width="250" height="120" rx="12" fill="#FFFFFF" stroke="#8A94A6" stroke-width="2"/>
+<text x="195.0" y="201" text-anchor="middle" font-size="21" font-weight="700" fill="#1F2430">The C-tier draft</text>
+<text x="195.0" y="230" text-anchor="middle" font-size="14" font-family="Cascadia Mono, Consolas, Menlo, monospace" fill="#5B6472">ch04-c-tier.md</text>
+<text x="195.0" y="251" text-anchor="middle" font-size="15" fill="#5B6472">made before recording</text>
+<text x="195.0" y="272" text-anchor="middle" font-size="15" fill="#5B6472">no SSOT</text>
+<rect x="360" y="165" width="250" height="120" rx="12" fill="#E3ECFA" stroke="#2F5DA8" stroke-width="2.5"/>
+<text x="485.0" y="212" text-anchor="middle" font-size="21" font-weight="700" fill="#1F2430">v4_check draft</text>
+<text x="485.0" y="240" text-anchor="middle" font-size="15" fill="#1F2430">by word: window, Figure</text>
+<text x="485.0" y="262" text-anchor="middle" font-size="15" fill="#1F2430">by meaning: Vault 2 index</text>
+<rect x="650" y="180" width="220" height="90" rx="12" fill="#1F2430" stroke="#1F2430" stroke-width="2"/>
+<text x="760.0" y="222" text-anchor="middle" font-size="21" font-weight="700" fill="#FFFFFF">MOTIF_BREACH</text>
+<text x="760.0" y="251" text-anchor="middle" font-size="15" fill="#D7DCE4">the fault, shown</text>
+<path d="M320 225 L358 225" fill="none" stroke="#5B6472" stroke-width="2.5" marker-end="url(#a)"/>
+<path d="M610 225 L648 225" fill="none" stroke="#5B6472" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="910" y="165" width="260" height="120" rx="12" fill="#FFF4EE" stroke="#B4532A" stroke-width="2.5"/>
+<text x="1040.0" y="212" text-anchor="middle" font-size="21" font-weight="700" fill="#1F2430">B: ask the receiver</text>
+<text x="1040.0" y="240" text-anchor="middle" font-size="15" fill="#5B6472">&quot;are you 100% ready?&quot;</text>
+<text x="1040.0" y="262" text-anchor="middle" font-size="15" fill="#5B6472">→ the five fields</text>
+<rect x="1210" y="165" width="320" height="120" rx="12" fill="#FFF4EE" stroke="#B4532A" stroke-width="2.5"/>
+<text x="1370.0" y="202" text-anchor="middle" font-size="21" font-weight="700" fill="#1F2430">The key, sealed and pushed</text>
+<text x="1370.0" y="230" text-anchor="middle" font-size="13" font-family="Cascadia Mono, Consolas, Menlo, monospace" fill="#5B6472">PREDICTION-V4.md</text>
+<text x="1370.0" y="250" text-anchor="middle" font-size="14" fill="#5B6472">ch-04 notes · matrix · rubric</text>
+<text x="1370.0" y="270" text-anchor="middle" font-size="14" fill="#5B6472">SEALED_BEFORE_CONTRACTS</text>
+<rect x="40" y="335" width="1520" height="330" rx="16" fill="#EEF2F7" stroke="#8A94A6" stroke-width="1.5" stroke-dasharray="9 7"/>
+<text x="58" y="359" text-anchor="start" font-size="14" font-weight="600" letter-spacing="1" fill="#5B6472">ONE CONTRACT, ONE FRESH CHAT · every paste logged by bundle.ps1 · every reply saved by grab.ps1</text>
+<rect x="60" y="380" width="230" height="125" rx="12" fill="#E3ECFA" stroke="#2F5DA8" stroke-width="2.5"/>
+<text x="175.0" y="428" text-anchor="middle" font-size="20" font-weight="700" fill="#1F2430">C1 Raw Output</text>
+<text x="175.0" y="458" text-anchor="middle" font-size="15" fill="#1F2430">strip the prose</text>
+<text x="175.0" y="478" text-anchor="middle" font-size="15" fill="#1F2430">keep the skeleton</text>
+<path d="M290 442 L308 442" fill="none" stroke="#5B6472" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="75" y="545" width="200" height="70" rx="12" fill="#1F2430" stroke="#1F2430" stroke-width="2"/>
+<text x="175.0" y="586" text-anchor="middle" font-size="18" font-weight="700" fill="#FFFFFF">BEATS_OK</text>
+<path d="M175 505 L175 543" fill="none" stroke="#5B6472" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="310" y="380" width="230" height="125" rx="12" fill="#E3ECFA" stroke="#2F5DA8" stroke-width="2.5"/>
+<text x="425.0" y="428" text-anchor="middle" font-size="20" font-weight="700" fill="#1F2430">C2 Surgical Fence</text>
+<text x="425.0" y="458" text-anchor="middle" font-size="15" fill="#1F2430">SSOT + manifest</text>
+<text x="425.0" y="478" text-anchor="middle" font-size="15" fill="#1F2430">untouchable zones</text>
+<path d="M540 442 L558 442" fill="none" stroke="#5B6472" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="325" y="545" width="200" height="70" rx="12" fill="#1F2430" stroke="#1F2430" stroke-width="2"/>
+<text x="425.0" y="586" text-anchor="middle" font-size="18" font-weight="700" fill="#FFFFFF">CONTRACT2_OK</text>
+<path d="M425 505 L425 543" fill="none" stroke="#5B6472" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="560" y="380" width="230" height="125" rx="12" fill="#E3ECFA" stroke="#2F5DA8" stroke-width="2.5"/>
+<text x="675.0" y="428" text-anchor="middle" font-size="20" font-weight="700" fill="#1F2430">C3 Hostile Critic</text>
+<text x="675.0" y="458" text-anchor="middle" font-size="15" fill="#1F2430">same model</text>
+<text x="675.0" y="478" text-anchor="middle" font-size="15" fill="#1F2430">paid to disappoint</text>
+<path d="M790 442 L808 442" fill="none" stroke="#5B6472" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="575" y="545" width="200" height="70" rx="12" fill="#1F2430" stroke="#1F2430" stroke-width="2"/>
+<text x="675.0" y="586" text-anchor="middle" font-size="18" font-weight="700" fill="#FFFFFF">CRITIC_OK</text>
+<path d="M675 505 L675 543" fill="none" stroke="#5B6472" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="810" y="380" width="230" height="125" rx="12" fill="#FFF4EE" stroke="#B4532A" stroke-width="2.5"/>
+<text x="925.0" y="418" text-anchor="middle" font-size="20" font-weight="700" fill="#1F2430">The author</text>
+<text x="925.0" y="447" text-anchor="middle" font-size="15" fill="#5B6472">fills the gap</text>
+<text x="925.0" y="468" text-anchor="middle" font-size="15" fill="#5B6472">from their own notes</text>
+<text x="925.0" y="489" text-anchor="middle" font-size="14" font-family="Cascadia Mono, Consolas, Menlo, monospace" fill="#5B6472">fixes.txt</text>
+<path d="M1040 442 L1058 442" fill="none" stroke="#5B6472" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="825" y="545" width="200" height="70" rx="12" fill="#FFFFFF" stroke="#8A94A6" stroke-width="2"/>
+<text x="925.0" y="586" text-anchor="middle" font-size="18" font-weight="700" fill="#1F2430">ch-04-final.txt</text>
+<path d="M925 505 L925 543" fill="none" stroke="#5B6472" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="1060" y="380" width="230" height="125" rx="12" fill="#E3ECFA" stroke="#2F5DA8" stroke-width="2.5"/>
+<text x="1175.0" y="428" text-anchor="middle" font-size="20" font-weight="700" fill="#1F2430">C4 Modality Shift</text>
+<text x="1175.0" y="458" text-anchor="middle" font-size="15" fill="#1F2430">prose → matrix</text>
+<text x="1175.0" y="478" text-anchor="middle" font-size="15" fill="#1F2430">UNKNOWN, not invented</text>
+<path d="M1290 442 L1308 442" fill="none" stroke="#5B6472" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="1075" y="545" width="200" height="70" rx="12" fill="#1F2430" stroke="#1F2430" stroke-width="2"/>
+<text x="1175.0" y="586" text-anchor="middle" font-size="18" font-weight="700" fill="#FFFFFF">MATRIX_OK</text>
+<path d="M1175 505 L1175 543" fill="none" stroke="#5B6472" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="1310" y="380" width="230" height="125" rx="12" fill="#E3ECFA" stroke="#2F5DA8" stroke-width="2.5"/>
+<text x="1425.0" y="428" text-anchor="middle" font-size="20" font-weight="700" fill="#1F2430">C5 Derivative Matrix</text>
+<text x="1425.0" y="458" text-anchor="middle" font-size="15" fill="#1F2430">synthesis · CSV</text>
+<text x="1425.0" y="478" text-anchor="middle" font-size="15" fill="#1F2430">commit message draft</text>
+<rect x="1325" y="545" width="200" height="70" rx="12" fill="#1F2430" stroke="#1F2430" stroke-width="2"/>
+<text x="1425.0" y="586" text-anchor="middle" font-size="18" font-weight="700" fill="#FFFFFF">CONTRACT5_OK</text>
+<path d="M1425 505 L1425 543" fill="none" stroke="#5B6472" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="425" y="640" text-anchor="middle" font-size="14" fill="#5B6472">the model says the window is gone; the laptop checks (SELF_REPORT_WRONG if not)</text>
+<rect x="40" y="690" width="1520" height="160" rx="16" fill="#EEF2F7" stroke="#8A94A6" stroke-width="1.5" stroke-dasharray="9 7"/>
+<text x="58" y="714" text-anchor="start" font-size="14" font-weight="600" letter-spacing="1" fill="#5B6472">AFTER: THE SCORE IS THE KEY, NOT THE MODEL&#x27;S OPINION OF ITSELF</text>
+<rect x="70" y="730" width="300" height="95" rx="12" fill="#E3ECFA" stroke="#2F5DA8" stroke-width="2.5"/>
+<text x="220.0" y="774" text-anchor="middle" font-size="21" font-weight="700" fill="#1F2430">v4_check rubric</text>
+<text x="220.0" y="804" text-anchor="middle" font-size="15" fill="#1F2430">six sealed lines, evidence shown</text>
+<rect x="410" y="742" width="230" height="72" rx="12" fill="#1F2430" stroke="#1F2430" stroke-width="2"/>
+<text x="525.0" y="775" text-anchor="middle" font-size="21" font-weight="700" fill="#FFFFFF">n / 6</text>
+<text x="525.0" y="804" text-anchor="middle" font-size="15" fill="#D7DCE4">the author ticks</text>
+<path d="M370 778 L408 778" fill="none" stroke="#5B6472" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="690" y="730" width="300" height="95" rx="12" fill="#E3ECFA" stroke="#2F5DA8" stroke-width="2.5"/>
+<text x="840.0" y="774" text-anchor="middle" font-size="21" font-weight="700" fill="#1F2430">v4_check pastes</text>
+<text x="840.0" y="804" text-anchor="middle" font-size="15" fill="#1F2430">what crossed into the chats</text>
+<rect x="1030" y="742" width="230" height="72" rx="12" fill="#1F2430" stroke="#1F2430" stroke-width="2"/>
+<text x="1145.0" y="784" text-anchor="middle" font-size="18" font-weight="700" fill="#FFFFFF">KEY_NEVER_PASTED</text>
+<path d="M990 778 L1028 778" fill="none" stroke="#5B6472" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="1300" y="730" width="230" height="95" rx="12" fill="#FFF4EE" stroke="#B4532A" stroke-width="2.5"/>
+<text x="1415.0" y="765" text-anchor="middle" font-size="21" font-weight="700" fill="#1F2430">The author commits</text>
+<text x="1415.0" y="793" text-anchor="middle" font-size="14" fill="#5B6472">message typed by hand</text>
+<text x="1415.0" y="813" text-anchor="middle" font-size="13" font-family="Cascadia Mono, Consolas, Menlo, monospace" fill="#5B6472">drafts/ch-04-beats.csv</text>
+<path d="M1425 615 L1425 728" fill="none" stroke="#B4532A" stroke-width="2.5" marker-end="url(#o)"/>
+<rect x="60" y="853" width="22" height="16" rx="4" fill="#FFFFFF" stroke="#8A94A6" stroke-width="1.5"/>
+<text x="90" y="866" text-anchor="start" font-size="14" fill="#5B6472">files and evidence</text>
+<rect x="236.79999999999998" y="853" width="22" height="16" rx="4" fill="#E3ECFA" stroke="#2F5DA8" stroke-width="1.5"/>
+<text x="266.79999999999995" y="866" text-anchor="start" font-size="14" fill="#5B6472">a tool runs</text>
+<rect x="360.4" y="853" width="22" height="16" rx="4" fill="#FFF4EE" stroke="#B4532A" stroke-width="1.5"/>
+<text x="390.4" y="866" text-anchor="start" font-size="14" fill="#5B6472">you decide or write first</text>
+<rect x="590.4" y="853" width="22" height="16" rx="4" fill="#1F2430" stroke="#1F2430" stroke-width="1.5"/>
+<text x="620.4" y="866" text-anchor="start" font-size="14" fill="#5B6472">a verdict word</text>
+<rect x="736.8" y="853" width="22" height="16" rx="4" fill="#FCEDED" stroke="#B42A2A" stroke-width="1.5"/>
+<text x="766.8" y="866" text-anchor="start" font-size="14" fill="#5B6472">fails closed</text>
+</svg>

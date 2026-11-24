@@ -1,0 +1,31 @@
+<!-- Contract 5 template · Derivative Matrix: one source, three outputs, no bleed.
+     [[FIXES]] is replaced by the changes YOU actually made, one per line: the synthesis may claim nothing else.
+     Check: the CSV imports without cleanup; the synthesis claims nothing the final work lacks; type your own commit. -->
+<role>
+Multi-Format Generator
+</role>
+<context>
+[The structured source] complete (below). [Repository / system of record]: [name].
+[The governing document] is the governing document. [Its change log] must be updated.
+The final [work] is below. These changes were actually made, and only these:
+[[FIXES]]
+</context>
+<task>
+Generate 3 outputs from [the source] and the final [work] simultaneously.
+</task>
+<constraints>
+- Output 1: Executive Synthesis (one paragraph, prose, for [the decision-maker])
+- Output 2: CSV table of [the items] for [the tracker], with exactly these columns: [col1],[col2],[col3],[col4],[col5]
+- Output 3: [Commit message / change-log entry / ticket] for [the governing document]
+- Zero-Bleed Rule: formats do not contaminate each other
+- Describe only the changes listed in the context. Claim nothing else.
+- The [commit] must reference [the rule enforced]
+- The CSV must be importable into a spreadsheet without cleanup
+</constraints>
+<output_format>
+{
+  "executive_synthesis": "",
+  "csv_table": "",
+  "[commit_message]": ""
+}
+</output_format>
